@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    font-family: "Roboto";
+    font-size: 12px;
+    color: #2a2a63;
+}
+
+.main {
+    background-color: #fba3ab;
+    background-size: cover;
+
+    padding-top: 15px;
+}
+
+.name {
+    font-weight: bold;
+}
+
+.icon {
+
+    font-size: 30px;
+    border-style: solid;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+.icon_2 {
+
+    font-size: 30px;
+    border-style: solid;
+    padding: 10px;
+    border-radius: 50%;
+    color: #fba3ab;
+    background-color: #2a2a63;
+}
+
+.con_1 {
+    padding: 0px;
+    margin: 0px;
+}
+
+.line {
+
+    border-width: 3px;
+    border-color: indigo;
+    width: 100%;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+.vert {
+    border-right: 3px solid indigo;
+
+    height: 120px;
+
+    margin-left: 5px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+.vert_1 {
+    border-right: 3px solid indigo;
+
+    height: 200px;
+
+    margin-left: 5px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+.para {
+    font-weight: bold;
+}
+
+.dot {
+    width: 10px;
+    height: 10px;
+    background-color: #2a2a63;
+    margin-left: 10px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-top: 13px;
+
+}
+
+ul {
+    list-style: none;
+    margin-left: 0px;
+    padding-left: 0px;
+}
+
+li {
+    margin-top: 10px;
+}
